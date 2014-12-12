@@ -48,3 +48,11 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+inspector/)
+
+=======
+emberCliBoilerplate
+===================
+
+Basic boiler plate for developing ember applications.
+>>>>>>> cffbca6579fdcfc13fbc7aea1013be8e9ddc155d
